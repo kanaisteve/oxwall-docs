@@ -6,7 +6,7 @@ Oxwall is a great community-software written in PHP. You can easily install it o
 
 It is open source and you have full control over the data.
 
-## How to create own theme
+## How to create own theme in oxwall
 
 Although Oxwall comes with some great themes that can even be easily customized in the backend a bit, one might want to build one’s own theme for Oxwall.
 
