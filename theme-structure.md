@@ -2,6 +2,7 @@
 
 First of all, you need to understand Oxwall theme structure. Below is what the structure of Oxwall themes look like:
 
+```
 **ThemeName**
     |
     |_ theme.xml
@@ -22,7 +23,7 @@ First of all, you need to understand Oxwall theme structure. Below is what the s
         |_ base.css
     |_ theme.jpg
     |_ theme_preview.jpg
-
+```
 
 **Bolded words are folders**
 
