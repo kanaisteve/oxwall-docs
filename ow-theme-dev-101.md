@@ -38,7 +38,7 @@ Below is the content of `theme.xml`
 You don't always have to use The BSD License. OSCL is the legal license for commercial Oxwall items <https://developers.oxwall.com/store/oscl>.
 
 
-### 1/ base.css
+### 1. base.css
 This is the CSS base file for Oxwall themes. We will come to this later.
 
 ### 2. README.md
