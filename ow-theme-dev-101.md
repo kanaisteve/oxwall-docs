@@ -38,16 +38,16 @@ Below is the content of `theme.xml`
 You don't always have to use The BSD License. OSCL is the legal license for commercial Oxwall items <https://developers.oxwall.com/store/oscl>.
 
 
-### base.css
+### 1/ base.css
 This is the CSS base file for Oxwall themes. We will come to this later.
 
-### README.md
+### 2. README.md
 Add some special information users need to use your theme here.
 
-### images folder
+### 3. images folder
 This folder contains all the statics files you intend using on your theme. You images, fonts, js, additional css, etc can go here.
 
-### master_pages folder
+### 4. master_pages folder
 This folder contains all the html templates used to structure Oxwall system. By default, each of the master tempplates are inherited from the Oxwall simplicity theme or the current default theme. Adding any of blank, general, dndindex or html_documents templates to your theme master pages will overide simplicy master page for that template.
  
 This is also where we will be throwing all our bootstrap codes.
@@ -61,13 +61,13 @@ It is also worthy of note that most pages has there own document unique key whic
 
 You can add your custom classes with just a simple plugin tweaking.
 
-### Mobile
+### 5. Mobile
 This is for mobile version of your theme. Will be discussed much later.
 
-### theme.jpg
+### 6. theme.jpg
 A small thumbnail image of your theme. Usually 154px X 93px
  
-### theme_preview.jpg
+### 7. theme_preview.jpg
 A larger preview of your theme. Usually 700px X 525px.
 
 
